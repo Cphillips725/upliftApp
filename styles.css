@@ -1,0 +1,19 @@
+.card container{
+    background-color: darkorchid;
+    height: 700px;
+
+    display:flex;
+}
+
+.card{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+
+    width: 150px;
+    height: 200px;
+}
+
+.card-1{
+    background-color: darkslategrey;
+}
